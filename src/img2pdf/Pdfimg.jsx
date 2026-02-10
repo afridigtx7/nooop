@@ -1,5 +1,5 @@
 import jsPDF from 'jspdf';
-import { React, useState } from 'react';
+import React, { useState } from 'react';
 
 const Pdfimg = () => {
   const [photo, setPhoto] = useState(null);
@@ -76,7 +76,7 @@ const Pdfimg = () => {
       <footer>
         <p className="text-center">
           Made by{' '}
-          <a href="http://tantanmoy.netlify.app" target="_blank">
+          <a href="http://tantanmoy.netlify.app" target="_blank" rel="noreferrer">
             Tanmoy
           </a>
         </p>
