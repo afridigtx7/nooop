@@ -27,7 +27,7 @@ const Pdfimg = () => {
             src="https://img.icons8.com/external-others-justicon/48/000000/external-image-photography-others-justicon-2.png"
             alt="icon"
           />{' '}
-          Image to Pdf
+          Image to Pdfj
           <img
             src="https://img.icons8.com/cute-clipart/50/000000/pdf.png"
             alt="icon"
